@@ -39,5 +39,5 @@
 
 ## 📍 Resume
 
-📄 [Download Resume](#) (optional: upload your resume as a repo release or Gist and link here)
+📄 [Download Resume](#) (https://github.com/surabhibehara9998/surabhibehara9998/blob/main/Surabhi_Behara_Resume.pdf)
 
