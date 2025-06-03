@@ -39,5 +39,5 @@
 
 ## 📍 Resume
 
-📄 [Download Resume](#) (https://github.com/surabhibehara9998/surabhibehara9998/blob/main/Surabhi_Behara_Resume.pdf)
+📄 [Download Resume](#) (https://github.com/surabhibehara9998/surabhibehara9998/raw/main/Surabhi_Behara_Resume.pdf)
 
