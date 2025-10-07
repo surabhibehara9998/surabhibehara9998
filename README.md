@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Surabhi Behara
 
-🎯 Full Stack Developer with 4.8+ years of experience building scalable, high-performance applications.  
+🎯 Full Stack Developer with 4.10+ years of experience building scalable, high-performance applications.  
 💼 Skilled in Node.js, Express.js, Angular, React.js, PostgreSQL, MongoDB, Azure DevOps.
 
 ## 🚀 About Me
@@ -14,8 +14,8 @@
 
 **Frontend:** React.js, Angular, HTML, CSS, Bootstrap  
 **Backend:** Node.js, Express.js  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**DevOps/Tools:** Azure DevOps, Git, JIRA, CI/CD  
+**Databases:** PostgreSQL, MSSQL, MongoDB  
+**DevOps/Tools:** Azure, AWS, Git, JIRA, CI/CD  
 **Testing:** Jest, Jasmine, Karma
 
 ## 📌 Featured Projects
